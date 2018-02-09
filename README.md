@@ -9,7 +9,7 @@ This Payload contains Debug settings, Update Blocker, and HEN in 1!
 
 - It will now look for the new Directory before creating it
 
-- Took away creating PS4UPADTE.PUP as its no longer needed (JS Version ONLY)
+- Took away creating PS4UPDATE.PUP as its no longer needed (JS Version ONLY)
 
 - Converted V2 to JS for your website
 
