@@ -1,7 +1,24 @@
-# PS4-HEN-Update-Blocker-Payload
-This Payload contains Debug settings, Update Blocker, and HEN in 1!
+# PS4-4.55-Update-Blocker-FTP
+This Payload contains Debug settings, Update Blocker, and FTP in 1! NOW With 4.55 Support!
 
-**------ V2 Change Log--------**
+**------ V3/ 4.55 Change Log--------**
+
+- Added Support for 4.55 with FTP, Debug Settings etc included
+
+- Changed Popup Notifcation to "PS4 Update Blocker and FTP V1.2 are now Active" 
+
+- New Payload Chain
+
+- Added back creating PS4UPDATE.PUP
+
+- Converted V2 to JS for your website
+
+- added Defined Version
+
+And More!
+
+
+**------ V2 ONLY 4.05 Change Log--------**
 
 - Added PS4UPDATE.PUP.net.temp so Now the Update cant even download you will get "cannot download" instantly
 
