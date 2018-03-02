@@ -1,6 +1,15 @@
 # PS4-4.55-Update-Blocker-FTP
 This Payload contains Debug settings, Update Blocker, and FTP in 1! NOW With 4.55 Support!
 
+**------ V3.1 Change Log--------**
+
+- Fixed Minor error 
+
+- Added UART
+
+And More!
+
+
 **------ V3/ 4.55 Change Log--------**
 
 - Added Support for 4.55 with FTP, Debug Settings etc included
