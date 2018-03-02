@@ -5,7 +5,7 @@ This Payload contains Debug settings, Update Blocker, and FTP in 1! NOW With 4.5
 
 - Added Support for 4.55 with FTP, Debug Settings etc included
 
-- Optimized use with a DNS serveer 
+- Optimized use with a DNS server 
 
 - Changed Popup Notifcation to "PS4 Update Blocker and FTP V1.2 are now Active" 
 
