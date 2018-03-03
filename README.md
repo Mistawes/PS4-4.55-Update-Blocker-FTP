@@ -60,11 +60,10 @@ so now you cannot update it accidentally...
  
 You can use my website to inject it without injecting it via PC
 
-https://darksoftware.us/Update_Blocker
+http://ps4exploits.darksoftware.xyz
 
 
-https://darksoftware.xyz/Update_Blocker
-
+http://ps4exploits.darksoftware.xyz
 
 
 
