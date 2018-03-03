@@ -5,6 +5,8 @@ This Payload contains Debug settings, Update Blocker, and FTP in 1! NOW With 4.5
 
 - Added SDK spoofer/ VR Enabler Port for 4.55 (VR Not Tested)
 
+- Removed Debug Settiungs to avoid Freezing
+
 And More!
 
 **------ V3.1 Change Log--------**
