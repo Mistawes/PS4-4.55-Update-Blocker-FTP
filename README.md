@@ -1,6 +1,12 @@
 # PS4-4.55-Update-Blocker-FTP
 This Payload contains Debug settings, Update Blocker, and FTP in 1! NOW With 4.55 Support!
 
+**------ V3.2 Change Log--------**
+
+- Added SDK spoofer/ VR Enabler Port for 4.55 (VR Not Tested)
+
+And More!
+
 **------ V3.1 Change Log--------**
 
 - Fixed Minor error 
